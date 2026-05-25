@@ -1,0 +1,98 @@
+aid: verra-org
+name: Verra
+description: >-
+  Verra is a Washington, D.C.-based nonprofit standards body that develops
+  and manages the world's leading certification programs for climate action
+  and sustainable development. Its flagship program, the Verified Carbon
+  Standard (VCS), is the most widely used voluntary greenhouse gas crediting
+  program globally, with more than 2,579 registered projects across 132+
+  countries and over 1.3 billion Verified Carbon Units (VCUs) issued. Verra
+  also operates the Climate, Community & Biodiversity Standards (CCB), the
+  Sustainable Development Verified Impact Standard (SD VISta), the
+  Plastic Waste Reduction Standard (PWRP), the Scope 3 Standard Program,
+  and the Jurisdictional and Nested REDD+ (JNR) framework. The Verra
+  Registry at registry.verra.org is the system of record for projects,
+  methodologies, issuances, retirements, and the AFOLU pooled buffer
+  account across these programs; project documentation, public comment
+  periods, and credit-lifecycle records are all surfaced through that
+  registry. Verra recently launched VCS Version 5, modernizing program
+  operations, strengthening safeguards, and clarifying credit rights.
+  Verra does not publish a public developer API, OpenAPI specification,
+  SDK, or GitHub organization; programmatic data access is limited to the
+  registry's web interface and filtered report exports, and there is no
+  open-source code or machine-readable spec catalog associated with the
+  organization.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon
+  - Carbon Credits
+  - Carbon Markets
+  - Voluntary Carbon Market
+  - Carbon Registry
+  - Climate
+  - Climate Action
+  - Greenhouse Gas
+  - Emissions Reduction
+  - Offsets
+  - Sustainability
+  - Sustainable Development
+  - REDD+
+  - Forestry
+  - AFOLU
+  - Nature-Based Solutions
+  - Plastic Waste
+  - Standards
+  - Certification
+  - Nonprofit
+url: https://raw.githubusercontent.com/api-evangelist/verra-org/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://verra.org
+  - type: Registry
+    url: https://registry.verra.org
+  - type: ProjectHub
+    url: https://projecthub.verra.org
+  - type: Programs
+    url: https://verra.org/programs/
+  - type: VerifiedCarbonStandard
+    url: https://verra.org/programs/verified-carbon-standard/
+  - type: VCSVersion5
+    url: https://verra.org/programs/verified-carbon-standard/verified-carbon-standard-version-5/
+  - type: JurisdictionalAndNestedREDD
+    url: https://verra.org/programs/jurisdictional-and-nested-redd-framework/
+  - type: ClimateCommunityAndBiodiversityStandards
+    url: https://verra.org/programs/ccbs/
+  - type: SustainableDevelopmentVerifiedImpactStandard
+    url: https://verra.org/programs/sd-vista/
+  - type: PlasticWasteReductionStandard
+    url: https://verra.org/programs/plastic-waste-reduction-standard/
+  - type: Scope3Standard
+    url: https://verra.org/programs/scope-3-standard/
+  - type: Methodologies
+    url: https://verra.org/methodologies-main/
+  - type: ValidationVerification
+    url: https://verra.org/validation-verification/
+  - type: PublicConsultations
+    url: https://verra.org/consultations/public-consultation/
+  - type: RegistryUserGuide
+    url: https://verra.org/wp-content/uploads/Verra-Registry-User-Guide.pdf
+  - type: News
+    url: https://verra.org/news/
+  - type: Contact
+    url: https://verra.org/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/verra-co
+  - type: Twitter
+    url: https://twitter.com/verra_standards
+  - type: YouTube
+    url: https://www.youtube.com/@verrastandards
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
