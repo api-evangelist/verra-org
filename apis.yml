@@ -53,6 +53,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/verra-org-domain-security.yml
   - type: Website
     url: https://verra.org
   - type: Registry
@@ -93,6 +95,8 @@ common:
     url: https://twitter.com/verra_standards
   - type: YouTube
     url: https://www.youtube.com/@verrastandards
+  - type: Blog
+    url: https://verra.org/news/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
